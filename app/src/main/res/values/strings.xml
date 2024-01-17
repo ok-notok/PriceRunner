@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PriceRunner</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="scan_results_will_appear_here_npress_scan_barcode_to_get_started">Scan results will appear here.\nPress \'Scan Barcode\' to get started!</string>
+</resources>
